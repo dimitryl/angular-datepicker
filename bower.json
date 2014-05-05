@@ -1,0 +1,28 @@
+{
+  "name": "angular-datepicker",
+  "version": "3.5.0",
+  "homepage": "https://github.com/dimitryl/angular-datepicker",
+  "authors": [
+    "Dimitry Lukyanov <dimitryl@gmail.com>"
+  ],
+  "description": "The mobile-friendly, responsive, and lightweight Angular.js date & time input picker.",
+  "main": "[ 'build/angular-datepicker.js', 'build/themes/default.css\" ]",
+  "keywords": [
+    "date",
+    "picker",
+    "angularjs"
+  ],
+  "devDependencies": {
+    "angular": "~1.2.12"
+  },
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
