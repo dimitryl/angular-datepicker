@@ -8,7 +8,9 @@
   "description": "The mobile-friendly, responsive, and lightweight Angular.js date & time input picker.",
   "main": [ 
     "build/angular-datepicker.js", 
-    "build/themes/default.css" 
+    "build/themes/default.css",
+    "build/themes/default.date.css",
+    "build/themes/default.time.css"
   ],
   "keywords": [
     "date",
